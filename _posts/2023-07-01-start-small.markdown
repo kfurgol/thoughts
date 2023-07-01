@@ -23,7 +23,7 @@ My solution is to create a platform with a "game" feel, focusing on teaching use
 
 ## Building the MVP: Learning Over Revenue
 
-I'm not expecting this app to be a major source of revenue. As I've stressed, that's not the point of this project. My goal is to build the MVP of the app (including core functionality, a payment system, and user handling). I'll deploy it as economically as possible, try to launch it on platforms like ProductHunt, and kickstart a small marketing campaign.
+I'm not expecting this app to be a major source of revenue (to be honest any revenue at all). As I've stressed, that's not the point of this project. My goal is to build the MVP of the app (including core functionality, a payment system, and user handling). I'll deploy it as economically as possible, try to launch it on platforms like ProductHunt, and kickstart a small marketing campaign while still working a typical 9-5 job.
 
 This process is more about learning and addressing my current skill gaps than generating profit.
 
