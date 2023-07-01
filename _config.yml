@@ -24,8 +24,9 @@ description: >-
 email: furgolkarol@gmail.com
 baseurl: "/thoughts" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kfurgol
+linkedin_username: kfurgol
 github_username:  kfurgol
+twitter_username:  kfurgol
 
 # Build settings
 theme: minima

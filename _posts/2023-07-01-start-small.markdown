@@ -5,8 +5,6 @@ date:   2023-07-01 13:33:15 +0200
 categories: personal
 ---
 
-# Start somewhere, even if it's small.
-
 ## Setting Sail on the SaaS Sea
 
 It's essential to start somewhere, no matter how small. Over the next few years, my big aim is to live off my own projects. Some might argue the SaaS domain is already crowded, but I still believe there's room for innovative services. Advances in VR and AI might open doors to a ton of new opportunities.
@@ -27,4 +25,6 @@ My solution is to create a platform with a "game" feel, focusing on teaching use
 
 I'm not expecting this app to be a major source of revenue. As I've stressed, that's not the point of this project. My goal is to build the MVP of the app (including core functionality, a payment system, and user handling). I'll deploy it as economically as possible, try to launch it on platforms like ProductHunt, and kickstart a small marketing campaign.
 
-This process is more about learning and addressing my current skill gaps than generating profit. Let's see where it will take me. 
+This process is more about learning and addressing my current skill gaps than generating profit.
+
+Let's see where it will take me. 
