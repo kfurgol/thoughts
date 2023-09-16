@@ -51,7 +51,7 @@ There are 5 main components of the app:
 4. Auth service
 5. Code runner
 
-![image](/assets/images/algoblaze.drawio.png)
+![algoblaze.png](..%2Fassets%2Fimages%2Falgoblaze.png)
 
 Main flow:
 1. User logs in via login and password, or Github, or Google account.
