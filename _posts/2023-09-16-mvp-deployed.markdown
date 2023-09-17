@@ -18,14 +18,14 @@ You can check it here: [Algoblaze](https://algoblaze.com).
 ## Development
 
 I was really demotivated to work on it for several reasons:
-- I didn't like that idea: mindless grind just to get into high jobs, and I think these algo learning platforms eventually lead to that,
-- Overwhelmed with the work to do,
-- Learning new things is hard - I did not know some of the tools from the tech stack that I've chosen,
+- - I didn't like that idea: a platform for mindless grind with only the aim of getting a high-paid job,
+- Overwhelmed with the work to do and tech to learn,
+- Learning new things is hard - I did not know some of the tools before from the tech stack that I've chosen,
 - It was summer, not the best time to work intensely,
 - and many others.
 
-I was really close to dropping the whole project completely (we've all been there), but I've decided to push and at least deploy the MVP.
-And after 2.5 months, it is up and running.
+I was really close to dropping the whole project altogether (we've all been there), but I've decided to push myself and at least deploy the MVP.
+And after 2.5 months, the MVP is up and running.
 
 ## Tech stack
 
@@ -69,18 +69,19 @@ Main flow:
 5. The frontend app receives the output from tests and shows the appropriate message on success, failure, errors, etc.
 
 ## Problems
-1. The platform lacks functionalities
-    - I was thinking about incorporating spaced repetition into learning these algorithms. What I wanted to do with this platform, was to teach ALGORITHMS AND DATA STRUCTURES, not how to pass FAANG interview questions.
+1. The platform lacks features:
+    - I was thinking about incorporating spaced repetition into learning these algorithms. What I wanted to do with this platform, was to teach ALGORITHMS AND DATA STRUCTURES, not how to pass FAANG interview questions,
     - User statistics - how many times given algo was solved etc.
 2. Low amount of content.
 3. It's slow - running docker containers for each test is time-consuming.
 4. No business model - Some of the not implemented functionalities I wanted to be paid.
-5. UI is very basic
-6. No tests, code's a mess
+5. UI is very basic.
+6. The feedback for the user after sending the code to check is a dump of the `go test` command.   
+7. No tests, code's a mess.
 
 ## What have I learned
 1. You can deploy MVP of a web app for free (almost) - I've used fly.io, and to deploy docker containers I was asked to provide a credit card or buy some of their funds. I've decided to buy $25 of the funds to have peace of mind.
-2. Frontend is not so easy, and React is an OK framework - lots of materials to be found online
+2. Frontend is not so easy, and React is an OK framework - lots of materials to be found online.
 3. PLAN your MVP and functionalities BEFORE you start writing a line of code. It will grow enormously during the development because as a creative mind, you'll get a lot of ideas (which may not be what users will want). So write an MVP plan and stick to it.
 4. The simpler and more boring technology, the better.
 5. FINALLY I'VE DELIVERED SOMETHING!
@@ -88,4 +89,5 @@ Main flow:
 ## Final words
 During the time of development, I've read one book [Intercom on Starting up](https://www.goodreads.com/book/show/34908337-intercom-on-starting-up), and the second one that I am still reading [Zero To Sold](https://www.goodreads.com/book/show/54323859-zero-to-sold).
 In one of them (I'm not sure which) the author speaks about Product-Founder fit. When I realized that in fact, I hate the idea of this algorithm and data structures learning platforms, I knew that I would drop the project. Yet still, I wanted finally to deliver SOMETHING, because I've always dropped the projects after one or two weeks.
+
 Well, it will only get better from now on. 
