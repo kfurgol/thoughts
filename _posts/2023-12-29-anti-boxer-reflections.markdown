@@ -5,9 +5,6 @@ date:   2023-12-29 13:00:00 +0200
 categories: personal
 ---
 
-
-# The Anti-Boxer Reflections: A Perspective on Mindless Labor and Servility
-
 ## Introduction
 Drawing inspiration from Boxer in Orwell's "Animal Farm," known for his mantras "Napoleon is always right" and "I will work harder," I share my reflections. This text critiques the widespread culture of relentless labor, prevalent globally and recently echoed by influential figures. It's a blend of my observations on mindless labor and servility, especially as I perceive them through the lens of my Polish background. These reflections represent my journey and thoughts, advocating for a balanced and more mindful approach to work and decision-making.
 
