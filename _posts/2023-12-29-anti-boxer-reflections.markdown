@@ -23,5 +23,5 @@ I envision a culture that promotes questioning and critical thinking, contrastin
 ## Personal Ambition and Intellectual Pursuits
 I move away from the often glorified theme of collective struggle and sacrifice, deeply rooted in Polish culture, and instead highlight personal ambition and intellectual growth. Prioritizing individual well-being and success is vital, serving not just as a counter to collective efforts, but as an essential element of personal fulfillment.
 
-## Conclusion: A Controversial Polish Perspective
-Reflecting on a controversial statement (illegaly recorded) by a Polish politician, "Problem w Polsce jest, że mamy płytką dumę i niską ocenę" ("The problem in Poland is that we have shallow pride and low self-esteem"), I recognize the resonance it has with the need for deeper self-awareness and cultural introspection. It's about reevaluating entrenched norms to foster a culture that values thoughtful action and engagement over unexamined tradition and impulsive reactions.
+## Conclusion: Embracing Thoughtfulness Over Impulsivity
+My primary aspiration is to cultivate a more thoughtful approach to action and engagement, moving away from unexamined traditions and impulsive reactions that often characterize my Polish cultural background. It's about seeking deeper self-awareness and reevaluating long-standing norms to create a culture where deliberate, mindful choices are valued above automatic, unreflective behaviors.
